@@ -1,1 +1,2 @@
-def add(x, y): return x + y  # Marc's logic
+def add(a, b): return a + b  # Sohan's logic
+def add_marc(x, y): return x + y  # Marc's logic
